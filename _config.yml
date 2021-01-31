@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: iKaze's World
-description: Welcome world 
+description: Everything starts here.
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -55,7 +55,7 @@ footer-links:
 
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2020 Kula & iKaze Ltd.
+footer-text: Copyright (c) 2021 Kula & iKaze Ltd.
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区

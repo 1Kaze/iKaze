@@ -2,7 +2,7 @@
 
 
 layout: post
-title: 「厌春者与偷春人」
+title: 「厌春者与偷春人」序
 date: 2021/1/31
 Author: iKaze
 categories: 

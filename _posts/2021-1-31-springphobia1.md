@@ -2,7 +2,7 @@
 
 
 layout: post
-title: 拉普拉斯的喜鹊
+title: 一/拉普拉斯的喜鹊
 date: 2021/1/31
 Author: iKaze
 categories: 
